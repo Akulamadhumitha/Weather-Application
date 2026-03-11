@@ -13,7 +13,7 @@ https://feel-the-skyy.netlify.app/
 
 ---
 
-## 📌 Features
+## Features
 
 * 🌍 Search weather by city name
 * 🌡️ Displays temperature in real time
@@ -25,7 +25,7 @@ https://feel-the-skyy.netlify.app/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **React**
 * **Vite**
@@ -62,13 +62,13 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Akulamadhumitha/Weather-Application.git
 ```
 
 ### 2️⃣ Navigate to the project folder
 
 ```
-cd weather-app
+cd weather-project
 ```
 
 ### 3️⃣ Install dependencies
@@ -82,7 +82,7 @@ npm install
 Create a `.env` file in the root folder and add:
 
 ```
-VITE_API_KEY=your_openweather_api_key
+VITE_API_ID = "ceea3a7921226d43e9d0c18dda17d628"
 ```
 
 ### 5️⃣ Run the development server
